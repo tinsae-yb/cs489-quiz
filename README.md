@@ -13,3 +13,5 @@
 <h2>UML class Diagram </h2>
 
 ![alt text](<screenshot/Screenshot 2024-04-05 at 2.22.49 PM.png>)
+
+![alt text](<screenshot/Screenshot 2024-04-05 at 2.25.48 PM.png>)
